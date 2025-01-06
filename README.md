@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- [GitHub pages](https://mts-ml.github.io/development/article-preview-component/index.html)
+- [Live site](https://mts-ml.github.io/article-preview-component/)
 
 
 ## My process
