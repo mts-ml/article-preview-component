@@ -5,6 +5,7 @@ node_modules/
 *.fig
 design/
 style-guide.md
+dist/
 
 *.xd
 
